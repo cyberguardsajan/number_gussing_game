@@ -40,6 +40,9 @@ Thank you very much for checking out my project! Your help, suggestions, and err
 ```
 
 ## About Me 
-I am a beginner in learning Python. I am interested in programming, AI, and cybersecurity. I have just begun my journey and am currently learning technology-related content from YouTube, Coursera, and PDF books. I am eager to learn new things about technology and truly appreciate your guidance and support. Please feel free to suggest how and what I should learn.
+I am a beginner in learning Python. I am interested in programming, AI, and cybersecurity.
+I have just begun my journey and am currently learning technology-related content from YouTube,
+Coursera, and PDF books. I am eager to learn new things about technology and truly appreciate
+your guidance and support. Please feel free to suggest how and what I should learn.
 
  
