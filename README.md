@@ -14,7 +14,24 @@ Welcome to the Number Guessing Game! This is my second Python project. It's a si
   - **Master:** 3 attempts
   - **God:** 1 attempt
 
-## How to Clone and Run the Game
+## How to Clone
+	
+
+
+    
+
+
+	
+
+			
+
+				
+				
+			
+
+	
+
+	 and Run the Game
 
 1. **Clone the Repository:**
 
@@ -67,5 +84,5 @@ Thank you very much for checking out my project! Your help, suggestions, and err
 ## About Me
 
 I am a beginner in Python programming with an interest in AI and cybersecurity. I’m currently learning through various online resources and am eager to expand my knowledge in technology. Your guidance and support are greatly appreciated. Feel free to suggest any improvements or resources I should explore.
-```
+
 
