@@ -37,7 +37,6 @@ Here are some resources I used to complete this project:
 
 # Thank You
 Thank you very much for checking out my project! Your help, suggestions, and error fixing are kindly appreciated.
-```
 
 ## About Me 
 I am a beginner in learning Python. I am interested in programming, AI, and cybersecurity.
